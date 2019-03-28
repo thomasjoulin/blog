@@ -1,0 +1,11 @@
+title: Thomas Joulin
+email: thomas@joulin.eu
+description: ""
+url: "https://blog.thomas.joulin.eu"
+twitter_username: thomasjoulin
+github_username:  thomasjoulin
+paginate: 10
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
